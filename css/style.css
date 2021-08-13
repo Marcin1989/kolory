@@ -1,0 +1,107 @@
+.box {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    border: 2px solid white;
+    
+    
+}
+
+.circle {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+
+}
+
+#container {
+    position: relative;
+    background-color: white;
+    height: 304px;
+    width: 304px;
+}
+
+#first {
+    left: 0px;
+    top: 0px;   
+}
+
+#second { 
+    left: 100px;
+    top: 0px;
+}
+
+#third {
+    left: 200px;
+    top: 0px;
+}
+
+#fourth {
+    bottom: 100px;
+    right: 200px;
+}
+
+#fifth {
+    bottom: 100px;
+    right: 100px;
+}
+
+#sixth {
+    bottom: 100px;
+    right: 0px;
+}
+
+#seventh {
+    top: 200px;
+    right: 0px;
+}
+
+#eighth {
+    top: 200px;
+    right: 100px;
+}
+
+#ninth {
+    top: 200px;
+    right: 200px;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.pink {
+    background-color: pink;
+}
+
